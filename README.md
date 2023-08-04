@@ -7,4 +7,3 @@ Utilizei :
 - CSS
 - JavaScript
 
-https://paulagmborges.github.io/imc/
